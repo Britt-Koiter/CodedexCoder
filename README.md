@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodedexCoder
+- 👋 Hi, I’m @Britt-Koiter
 - 🌍 I'm from the Netherlands
 - 🌱 I’m currently studying bio-informatics at the HAN
 - 📫 How to reach me koiterbritt@gmail.com
